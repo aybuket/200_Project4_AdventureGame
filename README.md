@@ -1,2 +1,4 @@
-# 200_Project4_AdventureGame
-Comp 200 Object Oriented Game in Scheme Fall 2015
+# The Object Oriented Adventure Game
+
+Fall 2015 - Comp200 (Structure and Interpretation of Computer Programs)
+
